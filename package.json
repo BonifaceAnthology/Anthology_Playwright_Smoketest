@@ -1,0 +1,28 @@
+{
+  "name": "anthologydemotest",
+  "version": "1.0.0",
+  "description": "",
+  "repository": "github:Microsoft/playwright",
+  "main": "index.js",
+  "scripts": {
+    "project": "npx playwright test --workers=4",
+    "test:reporter": "playwright test --headed --reporter=allure-playwright,line",
+    "allure-report": "node copyFile.ts && npx allure generate --clean ./allure-results && allure open",
+    "teamByte": "npx playwright test tests/spec/teamByte --project=teamByte",
+    "teamVertex": "npx playwright test tests/spec/teamVertex --project=teamVertex",
+    "teamVoyager": "npx playwright test tests/spec/teamVoyager --project=teamVoyager"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.39.0",
+    "karma-junit-reporter": "^2.0.1"
+  },
+  "dependencies": {
+    "@types/exceljs": "^1.3.0",
+    "@types/node": "^20.4.8",
+    "exceljs": "^4.3.0",
+    "playwright": "^1.39.0"
+  }
+}

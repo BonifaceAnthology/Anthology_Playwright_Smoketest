@@ -1,0 +1,20 @@
+{
+    "PersonalInformation": {
+        "firstName": "an",
+        "lastName": "Grath",
+        "Gender": "Male",
+        "specifiedStudentName":"anNTvLd GrathaNBrL",
+        "smsServiceProvider":"Vodafone",
+        "mobileNumber":"64646464645",
+        "address":"okalahama university,usa"
+    },
+    "contactManger": {
+        "Task": {
+            "taskTemplate1": "robotnewtasktemplate",
+            "taskTemplate2": "task Template",
+            "status1":"Pending",
+            "status2":"Completed"
+
+        }
+    }
+}

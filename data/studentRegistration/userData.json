@@ -1,0 +1,55 @@
+{
+  "termsData": {
+    "termName": "#1TERM!",
+    "termCode": "#code12"
+  },
+  "courseData": {
+    "courseName": "Some course",
+    "couseCode": "#123code"
+  },
+  "studentData": {
+    "campusName": "Test Campus 2023-1",
+    "adminRep": ".AAA .aAA",
+    "degree": "Degree",
+    "studentName1": "anth,dubey",
+    "studentName2": "Prateek",
+    "hours": "25",
+    "weeks": "5"
+  },
+  "keyboard": {
+    "enter": "Enter",
+    "selectAll": "Control+A",
+    "backspace": "Backspace"
+  },
+  "date": {
+    "startDate": "08/20/2023",
+    "endDate": "10/24/2023",
+    "datePlaced": "09/01/2023",
+    "effectiveDate": "09/23/2023"
+  },
+  "plcacementData": {
+    "description": "some description",
+    "salaryAmount": "1000",
+    "agentName": "Some Agent",
+    "agentTitle": "Some Title",
+    "date": "09/04/2023",
+    "phoneNumber": "12345"
+  },
+  "courseLevel": {
+    "name": "Pr",
+    "code": "#12"
+  },
+  "feeSchedule": {
+   "feeScheduleText":"Fee Schedules",
+    "name": "Pr",
+    "code": "#12",
+    "sequence": "3",
+    "amount": "200"
+  },
+  "degree":{
+"degreeText":"Degrees"
+  },
+  "deliveryMethod":{
+   "deliveryText":"Delivery Methods"
+  }
+}

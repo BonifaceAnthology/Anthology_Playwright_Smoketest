@@ -1,0 +1,14 @@
+{
+   "Academic Records":{
+
+   },
+   "Admissions":{
+   },
+   "Contact Manager":{
+      "Task Templates":"Task Templates",
+      "description":"task Template",
+      "code":"Ta",
+      "emailSubject":"Email for task Template"
+
+   }
+}

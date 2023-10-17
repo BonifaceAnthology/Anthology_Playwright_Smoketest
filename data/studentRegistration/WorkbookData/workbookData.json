@@ -1,0 +1,13 @@
+{
+    "WorkbookName": "Generated_E2E_Testdata.xlsx",
+    "Students": {
+        "sheetName": "Students",
+        "NewStudentName": "A",
+        "Catalog Years": "B",
+        "Programs": "C",
+        "Program Versions": "D",
+        "New Courses": "E",
+        "Terms": "F",
+        "Class Scheduling": "G"
+    }
+}

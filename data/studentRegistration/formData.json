@@ -1,0 +1,177 @@
+{
+    "catalogYearForm": {
+        "yearDiscription": "cy",
+        "yearCode": "CY",
+        "catalogText": "Catalog Years",
+        "newCatalogText": "New Catalog Year",
+        "inputStart": "05/17/2023",
+        "inputEnd": "05/17/2024"
+    },
+    "courseForm": {
+        "name": "co",
+        "code": "CO",
+        "campus": "test campus 2023-1",
+        "courseText": "Courses",
+        "newCourseText": "New Course"
+    },
+    "jobTitleForm": {
+        "discription": "j6",
+        "code": "J6",
+        "jobTitle": "Job Titles",
+        "newJobTitle": "New Job Title"
+    },
+    "letterGradeForm": {
+        "gradeScaleDiscription": "gr",
+        "scale": "GR",
+        "letterGradeDiscription": "le",
+        "letterGrade": "LE",
+        "gradeText": "Grade Scales",
+        "newGradeText": "New Grade Scale"
+    },
+    "programForm": {
+        "discription": "p6",
+        "code": "P6",
+        "group": "101145 Progarm Group",
+        "programText": "Programs"
+    },
+    "programVersionForm": {
+        "name": "v9",
+        "code": "V9",
+        "totalWeeks": "52",
+        "PublishedProgramLengthAmount": "99",
+        "activeUnits": "10",
+        "activeUnitType": "Credits have been Registered",
+        "PublishedProgramLength": "Months"
+    },
+    "programVersionStartDForm": {
+        "discription": "st",
+        "code": "ST",
+        "startDate": "06/01/2023"
+    },
+    "salaryTypeForm": {
+        "name": "s6",
+        "code": "S6",
+        "salaryType": "Salary Types",
+        "newSalaryType": "New Salary Type"
+    },
+    "bankForm": {
+        "discription": "b6",
+        "code": "B6",
+        "bank": "Banks",
+        "newBank": "New Bank",
+        "bankAccounts": "Bank Accounts",
+        "accountNumber": "957364823725"
+    },
+    "fundSourceData": {
+        "discription": "f6",
+        "code": "F6",
+        "fundSource": "Fund Sources",
+        "newFundSource": "New Fund Source",
+        "checkPopUpText": "The Fund Source records were successfully saved."
+    },
+    "academicYearData": {
+        "discription": "a6",
+        "code": "A6",
+        "academicYearText": "Academic Years",
+        "newAcademicYearText": "New Academic Year"
+    },
+    "courseRefundPoliciesData": {
+        "discription": "c1",
+        "code": "C1",
+        "courseRefundPoliciesText": "Course Refund Policies",
+        "newCourseRefundPoliciesText": "New Course Refund Policy"
+    },
+    "refundPoliciesData": {
+        "discription": "r1",
+        "code": "R1",
+        "refundPoliciesText": "Refund Policies",
+        "newRefundPoliciesText": "New Refund Policy"
+    },
+    "packagingMethodData": {
+        "discription": "pm1",
+        "code": "PM1",
+        "giftAidMax": "100",
+        "selfHelpMax": "100",
+        "minimumAmount": "20",
+        "maximumAmount": "200",
+        "packagingMethod": "Packaging Methods",
+        "newPackagingMethod": "New Packaging Method"
+    },
+    "reassignProspectData": {
+        "dateFrom": "06/15/2023",
+        "dateTo": "06/30/2023",
+        "newAdmissionTask": "Aero_Task1",
+        "prospectText": "Reassign Prospects",
+        "batchText": "Queue Batch",
+        "popUpText": "The Reassign Prospect records were successfully queued."
+    },
+    "RevenueRecognitionData": {
+        "revenueRecognition": "Revenue Recognition",
+        "campus": "Test Campus 2023-1",
+        "startDate": "08/02/2023",
+        "queuePopUp": "Revenue Recognition records were successfully queued.",
+        "succeededPopUp": "Revenue Recognition Batch Succeeded",
+        "recognitionProcessText": "Revenue Recognition is in progress for the selected campuses. Retry when the process is complete."
+    },
+    "courseTypeForm": {
+        "discription": "ct",
+        "code": "CT",
+        "courseTypeText": "Course Types",
+        "newCourseTypeText": "New Course Type"
+    },
+    "coursePrefixForm": {
+        "discription": "ct",
+        "code": "CT",
+        "coursePrefixText": "Course Prefixes",
+        "newCoursePrefixText": "New Course Prefix"
+    },
+    "skillsForm": {
+        "discription": "s",
+        "code": "S",
+        "skillsText": "Skills",
+        "newSkillsText": "New Skill"
+    },
+    "resourcesForm": {
+        "discription": "r",
+        "code": "R",
+        "resourcesText": "Resources",
+        "newResourcesText": "New Resource"
+    },
+    "asrForm": {
+        "attributeText": "Attributes",
+        "skillText": "Skills",
+        "resourceText": "Resources",
+        "attributeName": "Computers",
+        "skillName": "javaScript",
+        "resourceName": "Good Wifi"
+    },
+    "bookListForm": {
+        "name": "bl",
+        "code": "BL",
+        "bookListText": "Book Lists",
+        "newBookListText": "New Book List"
+    },
+    "calendarsForm": {
+        "name": "ca",
+        "code": "CA",
+        "calendarsText": "Calendars",
+        "newCalendarsText": "New Calendar",
+        "firstDate": "07/05/2013",
+        "endDate": "07/05/2013"
+    },
+    "detailSettingForm": {
+        "hoursPerWeekForExternship": "5",
+        "creditForExternship": "2",
+        "totalHoursForExternship": "50",
+        "detailSettingsText": "Detail Settings"
+    },
+    "courseCorequisitesForm": {
+        "courseCodeAndName": "COXRRPC - coENpJo",
+        "validateCourseTitle": "COXRRPC      - coENpJo"
+    },
+    "courseListForm": {
+        "poolName": "hello",
+        "courseListText": "Course Lists",
+        "catalogText": "Catalogs"
+    }
+}

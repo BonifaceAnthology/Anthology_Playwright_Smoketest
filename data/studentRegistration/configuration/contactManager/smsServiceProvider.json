@@ -1,0 +1,10 @@
+{
+"New SMS Service Provider":{
+    "Description":"VIairtelJio",
+    "code":"jio",
+    "Domain Name":"jio",
+    "Max characters":"500",
+    "New SMS Service Provider":"New SMS Service Provider",
+    "SMS Service Providers":"SMS Service Providers"
+}
+}

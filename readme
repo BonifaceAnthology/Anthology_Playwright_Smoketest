@@ -1,0 +1,43 @@
+***********************************Installation*******************************
+
+1- Download and install Node for windows (node v.16 onwards)
+
+2- Download and install Visial Studio Code
+
+3- Clone the repository from the StudentWeb portal(branch name: JS_Smoke_test)
+https://AnthologyInc-01@dev.azure.com/AnthologyInc-01/Student/_git/StudentWeb
+
+4- Open the code repo in VSCode Editor
+
+5- run the below command (in terminal) to install all the packages/dependencies from package.json file 
+   "npm install"
+
+6- For running the script use below commad from root directory
+   "npx playwright test"  // to run all the spec
+   "npm run allure-report"  // to open allure report
+   "npm run teamByte" // to run all test cases of team Byte
+   "npm run teamVertex" // to run all test cases of team Vertex
+   "npm run teamVoyager"  // to run all test cases of team Voyager
+   
+
+******************************Folder Structure**********************************
+
+Playwright_e2e_Automation\package.json    // to store all the script and dependencies
+
+Playwright_e2e_Automation\playwright.config.ts    // to store all the browser other configurations
+
+Playwright_e2e_Automation\SetupFiles // To configure and store the login credientials
+
+Playwright_e2e_Automation\tests\data   // to store the static data's that we use in our script
+
+Playwright_e2e_Automation\tests\page object   // to define all the locators and method creation
+
+Playwright_e2e_Automation\tests\spec   // to write all the test cases, call the methods and validation
+
+Playwright_e2e_Automation\node_modules   // folder where all the libraries is installed
+
+Playwright_e2e_Automation\Generated_E2E_Testdata.xlsx   // generated and stored data through scripts
+
+  
+Reference:-
+https://playwright.dev/docs/intro
